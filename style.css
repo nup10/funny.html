@@ -1,0 +1,22 @@
+html{
+    background-color: #FFCACC;
+}
+h1{
+    font-size: 4rem;
+}
+#div{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    width:50%;
+    margin-top: 100px;
+    margin-left: 25%;
+
+
+
+}
+#img{
+    border: 10px solid white;
+    width:100%;
+
+
+}
